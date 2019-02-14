@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Team Signal Studio",
+      "author": "a1"
+    },
+    {
+      "id": 2,
+      "title": "Team Vector Signal Analyzer",
+      "author": "a2"
+    },
+    {
+      "id": 3,
+      "title": "Team Logic Analyzer",
+      "author": "a3"
+    },
+    {
+      "id": 4,
+      "title": "BERT",
+      "author": "a4"
+    },
+    {
+      "id": 5,
+      "title": "Team FieldFox7",
+      "author": "a5"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "testing testing",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Please provide Github Link",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "Find the bug",
+      "postId": 3
+    }
+  ],
+  "profile": {
+    "name3": "aa3"
+  }
+}
